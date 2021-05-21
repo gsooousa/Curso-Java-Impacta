@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cap_03"/>
+	<classpathentry kind="src" path="Cap_04"/>
+	<classpathentry kind="src" path="Cap_05"/>
+	<classpathentry kind="src" path="Cap_06/Cap6_Lab1"/>
+	<classpathentry kind="src" path="Cap_06/Cap6_Lab2"/>
+	<classpathentry kind="src" path="Cap_06/Cap6_Lab3"/>
+	<classpathentry kind="src" path="Cap_07"/>
+	<classpathentry kind="src" path="Cap_08"/>
+	<classpathentry kind="src" path="Cap_09"/>
+	<classpathentry kind="src" path="Cap_10"/>
+	<classpathentry kind="src" path="Cap_11"/>
+	<classpathentry kind="src" path="Cap_14"/>
+	<classpathentry kind="src" path="Cap_15"/>
+	<classpathentry kind="src" path="Cap_16"/>
+	<classpathentry kind="src" path="Cap_17"/>
+	<classpathentry kind="src" path="Cap_19"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

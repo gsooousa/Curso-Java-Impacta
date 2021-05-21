@@ -1,0 +1,75 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww25100\viewh15700\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 CAPITULO 1\
+1 - C | 2 - D | 3 - B | 4 - A | 5 - B\
+\
+CAPITULO 2\
+1 - D | 2 - B | 3 - D | 4 - D | 5 - B\
+\
+CAPITULO 3\
+1 - D | 2 - C | 3 - B | 4 - A | 5 - C\
+\
+CAPITULO 4\
+1 - B | 2 - C | 3 - B | 4 - B | 5 - C\
+\
+CAPITULO 5\
+1 - B | 2 - D | 3 - C | 4 - C | 5 - A | 6 - D | 7 - C\
+\
+CAPITULO 6\
+1 - A | 2 - C | 3 - B | 4 - C | 5 - D | 6 - A\
+\
+CAPITULO 7\
+1 - C | 2 - D | 3 - B\
+\
+CAPITULO 8\
+1 - C | 2 - E | 3 - B | 4 - E | 5 - B\
+\
+CAPITULO 9\
+1 - A | 2 - B | 3 - B | 4 - D | 5 - C | 6 - B\
+\
+CAPITULO 10\
+1 - C | 2 - B | 3 - D\
+\
+CAPITULO 11\
+1 - C | 2 - A | 3 - E | 4 - A\
+\
+CAPITULO 12 \
+1 - D | 2 - C | 3 - A\
+\
+CAPITULO 13\
+1 - D | 2 - C\
+\
+CAPITULO 14\
+1 - D | 2 - C\
+\
+Capitulo 15\
+1 - D | 2 - A | 3 - A | 4 - B | 5 - B | 6 - E\
+\
+Capitulo 16\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \outl0\strokewidth0 1 - B | 2 - B | 3 - B | 4 - A \
+\cf2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 Capitulo 17\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \outl0\strokewidth0 1 - C | 2 - A | 3 - D | 4 - D | 5 - B\cf2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+Capitulo 18\
+1 - D\
+\
+Capitulo 19\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \outl0\strokewidth0 1 - A | 2 - A | 3 - D | 4 - C \cf2 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl280\partightenfactor0
+\cf2 \
+\
+\
+}
